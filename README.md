@@ -24,3 +24,7 @@
 
 **Solution validation**
 - The dataset is divided into 70% for the training set, 15% for the validation set, and 15% for the test set.
+
+
+**Library Installation**
+- Additional python library called SrbAi is necessary to run the code. It can be downloaded from their GitHub repository: https://github.com/Serbian-AI-Society/SrbAI, and installed following their instructions from repository.
